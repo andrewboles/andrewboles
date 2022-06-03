@@ -4,6 +4,7 @@ I'm a full stack web developer with a love for music and technology. You can lea
 
 ## Projects
 [live demo](https://flickflock.xyz)
+
 [github](https://github.com/andrewboles/flickflock)
 
 ### FlickFlock
