@@ -4,4 +4,5 @@ I'm a full stack web developer with a love for music and technology. You can lea
 
 ## Projects
 
-[![FlickFlock](https://s3.us-central-1.wasabisys.com/gitprofile/f3.PNG)](https://github.com/andrewboles/flickflock)
+### FlickFlock
+[![FlickFlock](https://s3.us-central-1.wasabisys.com/gitprofile/f3.PNG)](https://github.com/andrewboles/flickflock)[![FlickFlock](https://s3.us-central-1.wasabisys.com/gitprofile/f3.PNG)](https://github.com/andrewboles/flickflock)
