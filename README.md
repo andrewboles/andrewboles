@@ -10,7 +10,7 @@ I'm a full stack web developer with a love for music and technology. You can lea
 
 [github](https://github.com/andrewboles/flickflock)
 
-https://gifs.com/gif/ff-Z8owMQ
+[![FlickFlock](https://gifs.com/gif/ff-Z8owMQ)](https://github.com/andrewboles/flickflock)   
 
 ### Fuel Economy App
 
