@@ -10,7 +10,7 @@ I'm a full stack web developer with a love for music and technology. You can lea
 
 [github](https://github.com/andrewboles/flickflock)
 
-[![FlickFlock](https://www.andrewboles.com/flickflock.m4v)](https://github.com/andrewboles/flickflock)
+[![FlickFlock](https://s3.us-central-1.wasabisys.com/gitprofile/flickflock.mp4)](https://github.com/andrewboles/flickflock)
 
 ### Fuel Economy App
 
@@ -18,4 +18,4 @@ I'm a full stack web developer with a love for music and technology. You can lea
 
 [github](https://github.com/andrewboles/fueleconomy-remix)
 
-[![Fuel Econ](https://flickflock.xyz/)](https://github.com/andrewboles/fueleconomy-remix)
+[![Fuel Econ](https://s3.us-central-1.wasabisys.com/gitprofile/fuelecon.mp4)](https://github.com/andrewboles/fueleconomy-remix)
