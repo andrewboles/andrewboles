@@ -18,7 +18,7 @@ Data file processing full stack business-minded app built with Remix.js. Feature
 
 *Data Anonymized to protect proprietary knowledge
 
-[live demo](https://flickflock.xyz) | [github](https://github.com/andrewboles/fueleconomy-remix)
+[live demo](https://fueleconomyremixdemo.fly.dev/) | [github](https://github.com/andrewboles/fueleconomy-remix)
 
 ![fue](https://user-images.githubusercontent.com/32026903/176225412-2a430249-7a8e-4a68-8232-d68d18f2a3f4.gif)
 
